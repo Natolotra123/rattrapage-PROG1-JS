@@ -1,0 +1,7 @@
+{
+  "name": "rattrapage-prog1-js",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Rattrapage PROG1 - Exercices en JavaScript (ESM)",
+  "main": "exo1.js"
+}
